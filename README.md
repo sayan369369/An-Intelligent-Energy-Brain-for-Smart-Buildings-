@@ -1,4 +1,4 @@
-# ⚡ An Intelligent Energy Brain for Smart Buildings
+#  An Intelligent Energy Brain for Smart Buildings
 
 **Team Project | Department of Computer Science, RKMVERI**  
 **Instructor:** Br. Bhaswarachaitanya (Tamal Maharaj)  
@@ -9,12 +9,12 @@
 
 ---
 
-## 📄 Project Report
+##  Project Report
 
 [📥 **Download Project Proposal (PDF)**](https://github.com/sayan369369/Efficient-Energy-Brain-for-Smart-Buildings/blob/main/Infinity_ProjectProposal.pdf)
 
 ---
-## 🌍 Overview
+##  Overview
 
 > “We do not inherit the Earth from our ancestors; we borrow it from our children.” — *American Proverb*
 
@@ -25,23 +25,23 @@ Our vision is to make buildings truly intelligent — **sustainable, autonomous,
 
 ---
 
-## 💡 Motivation
+##  Motivation
 
 Energy consumption in large buildings continues to increase rapidly.  
 Among all utilities, **HVAC systems account for a major share** of total energy use.
 
 This project addresses the need for:
-- 🌱 Sustainable energy consumption  
-- 🌡️ Thermal comfort management  
-- 🤖 Autonomous, adaptive decision-making  
+-  Sustainable energy consumption  
+-  Thermal comfort management  
+-  Autonomous, adaptive decision-making  
 
 ---
 
-## 🧠 Proposed Framework
+## Proposed Framework
 
 The system operates in **two key phases:**
 
-### 🔹 Phase 1 — Deep Learning (Prediction)
+###  Phase 1 — Deep Learning (Prediction)
 A **Multi-Output Deep Neural Network (DNN)** is trained on building data to predict:
 - Indoor and outdoor temperature  
 - Occupancy levels  
@@ -52,7 +52,7 @@ A **Multi-Output Deep Neural Network (DNN)** is trained on building data to pred
 
 ---
 
-### 🔹 Phase 2 — Reinforcement Learning (Adaptive Control)
+###  Phase 2 — Reinforcement Learning (Adaptive Control)
 The RL agent continuously interacts with the environment to adjust HVAC parameters.
 
 - Observes real-time data + predictions from the DL model  
@@ -65,7 +65,7 @@ If occupancy unexpectedly increases, the RL model increases cooling capacity whi
 
 ---
 
-## 🔄 Continuous Learning and Updates
+##  Continuous Learning and Updates
 
 Every few minutes, the system updates:
 - Deep Learning weights (based on environmental feedback)  
@@ -75,7 +75,7 @@ This ensures the **Energy Brain** evolves dynamically, reflecting real-world con
 
 ---
 
-## ⚙️ Loophole & Solution
+##  Loophole & Solution
 
 **Challenge:** Who sets the *initial AC temperature* before control begins?  
 **Solution:**  
@@ -83,12 +83,12 @@ A lightweight, pre-trained **RL initialization model** determines the first sett
 
 ---
 
-## 🎯 Outcomes
+##  Outcomes
 
-- 🔋 Reduction in total energy consumption  
-- 🌡️ Maintained optimal indoor comfort  
-- 🤖 Autonomous and scalable system design  
-- ♻️ Step toward sustainable smart buildings  
+-  Reduction in total energy consumption  
+-  Maintained optimal indoor comfort  
+-  Autonomous and scalable system design  
+-  Step toward sustainable smart buildings  
 
 This hybrid ML + RL approach functions as an **Energy Brain** — enabling intelligent energy decisions.
 

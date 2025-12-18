@@ -1,4 +1,4 @@
-# ⚡ Efficient Energy Brain for Smart Buildings
+# ⚡ An Intelligent Energy Brain for Smart Buildings
 
 **Team Project | Department of Computer Science, RKMVERI**  
 **Instructor:** Br. Bhaswarachaitanya (Tamal Maharaj)  

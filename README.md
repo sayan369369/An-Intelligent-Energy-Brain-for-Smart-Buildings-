@@ -3,9 +3,9 @@
 **Team Project | Department of Computer Science, RKMVERI**  
 **Instructor:** Br. Bhaswarachaitanya (Tamal Maharaj)  
 **Team Members:**  
-- 🧠 **Jahar Kumar Paul (B2430049)** — Machine & Deep Learning  
-- 🤖 **Ayan Kumar Batabyal (B2530074)** — Reinforcement Learning  
-- 🔬 **Sayan Goswami (B2530098)** — Reinforcement Learning, System Integration
+-  **Jahar Kumar Paul (B2430049)** — Machine & Deep Learning  
+-  **Ayan Kumar Batabyal (B2530074)** — Reinforcement Learning  
+-  **Sayan Goswami (B2530098)** — Reinforcement Learning, System Integration
 
 ---
 

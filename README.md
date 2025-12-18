@@ -3,9 +3,9 @@
 **Team Project | Department of Computer Science, RKMVERI**  
 **Instructor:** Br. Bhaswarachaitanya (Tamal Maharaj)  
 **Team Members:**  
--  **Jahar Kumar Paul (B2430049)** — Machine & Deep Learning  
--  **Ayan Kumar Batabyal (B2530074)** — Reinforcement Learning  
--  **Sayan Goswami (B2530098)** — Reinforcement Learning, System Integration
+-  **Jahar Kumar Paul (B2430049)** — Designed the Physics of the environment(theory+coding) , the RL Agent and Reward Mechanism (coding part) & Interactive Dashboard Application.  
+-  **Ayan Kumar Batabyal (B2530074)** — Designed the Neural Brain of the Hybrid system(theory+coding), The MDP and State Space Formulation(Theory). Decided what Actions RL Can take.
+-  **Sayan Goswami (B2530098)** — Designing the Environment,
 
 ---
 
